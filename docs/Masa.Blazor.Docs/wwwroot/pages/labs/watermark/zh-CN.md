@@ -8,7 +8,3 @@ related:
 ## 使用
 
 <masa-example file="Examples.labs.watermark.Usage"></masa-example>
-
-## 刷新水印
-
-<masa-example file="Examples.labs.watermark.RefreshWatermark"></masa-example>
